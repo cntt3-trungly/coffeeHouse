@@ -1,0 +1,18 @@
+.productAdmin {
+    box-shadow: 0px 0px 30px 0px #b22830;
+    border-radius: 4px;
+    padding: 30px;
+    float: right;
+    width: 78%;
+    margin-top: 5%;
+    margin-right: 1%;
+}
+.productAdmin th {
+    text-align: center;
+}
+.productAdmin table {
+    text-align: center; 
+}
+.desAdmin {
+    width: 50%;
+}
